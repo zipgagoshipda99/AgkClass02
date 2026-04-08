@@ -47,7 +47,7 @@ public class ArrayPractice : MonoBehaviour
         Debug.Log("ЦђБе: " + average + "float ver: " + avrg);
 
         //  when adding a  comma  it tells C# that the first message is finished and you are starting a second,
-        //  totally different piece of information the debug.log function only wants one part
+        //  totally different piece of information the debug.log function only wants one part of the information not multiple different pieces.
         // In programming, commas are like separators used to hand over a list of items to a function.
 
         //def add(self, a)
